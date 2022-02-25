@@ -1,0 +1,59 @@
+h1 {
+    color:rgb(87, 59, 8);
+}
+
+p {
+    color:rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    font-weight: bold;
+    text-transform: none; /* this is a cimment in css */
+    font-style:italic;
+    line-height: 60px;
+    letter-spacing: normal;
+    text-decoration: underline;
+    font-size: 14px;
+}
+
+strong { 
+    font-weight: normal;
+}
+
+body {
+    background: burlywood;
+    text-align: center;
+}
+
+#quote {
+    color:rgb(87, 59, 8);
+    background: pink;
+}
+
+.new-class {
+    font-size: 30px;
+    background: orangered;
+}
+
+ul{
+    text-align: left;
+}
+
+a {
+    font-size: 30px;
+}
+
+a:visited {
+    color: yellow;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+#container {
+    background: rosybrown;
+    border-style: dotted;
+    border-color: black;
+    border-width: 10px;
+}
